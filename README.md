@@ -136,14 +136,14 @@
           <a class="btn" href="#contact">Order</a>
         </article>
         <article class="card">
-          <img src="https://images.unsplash.com/photo-1568641174277-4f70b10bd0f5?q=80&w=1600&auto=format&fit=crop" alt="Pumpkin dog treats">
+          <img src="https://images.unsplash.com/photo-1568641174277-4f70b10bd0f5?q=80&w=1600&auto=format&fit=crop" alt="Butternut squash dog treats">
           <h3>Organic Butternut Squash Bites</h3>
           <p>Soft treats with butternut squash slices. Great for sensitive tummies.</p>
           <p class="price">$5.99</p>
           <a class="btn" href="#contact">Order</a>
         </article>
         <article class="card">
-          <img src="https://images.unsplash.com/photo-1612539722392-b496a7ce6fc0?q=80&w=1600&auto=format&fit=crop" alt="Rope toy with neutral colors">
+          <img src="https://images.unsplash.com/photo-1612539722392-b496a7ce6fc0?q=80&w=1600&auto=format&fit=crop" alt="Dehydrated chicken necks">
           <h3>Dehydrated chicken neck</h3>
           <p>Homemade dehydrated chicken necks. Great dental chew alternatives.</p>
           <p class="price">$1.00 ea.</p>
@@ -225,7 +225,7 @@
         </form>
         <div class="card" style="background:#fff">
           <h3 style="margin-top:0">Email</h3>
-          <p><a href="mailto:hello@pawkimchiday.example">hello@pawkimchiday.example</a></p>
+          <p><a href="mailto:pawkimchiday@gmail.com">pawkimchiday@gmail.com</a></p>
           <h3>Instagram</h3>
           <p><a href="https://instagram.com/pawkimchiday" target="_blank" rel="noopener">@pawkimchiday</a></p>
           <h3>Pop‑ups</h3>
