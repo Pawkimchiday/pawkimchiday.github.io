@@ -129,7 +129,7 @@
       <div class="grid cols-3">
         <article class="card">
           <img src="https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?q=80&w=1600&auto=format&fit=crop" alt="Chicken jerky for dogs">
-          <h3>Beef Jerky</h3>
+          <h3>100% Grassfed Organic Beef Jerky</h3>
           <p>Lean, oven‑dried slices. No salt, no sugar, just protein.</p>
           <p class="price">$10.99</p>
           <a class="btn" href="#contact">Order</a>
