@@ -179,7 +179,7 @@
       <h2 class="section-title">Meet Haku, Hanu & Bami</h2>
       <div class="grid cols-3">
         <figure class="card">
-          <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=1600&auto=format&fit=crop" alt="Fluffy white dog">
+          <img src="https://imgur.com/gallery/haku-floof-KOyVgtA?q=80&w=1600&auto=format&fit=crop" alt="Fluffy white dog">
           <figcaption class="small">Haku — floof ambassador & taste tester</figcaption>
         </figure>
         <figure class="card">
