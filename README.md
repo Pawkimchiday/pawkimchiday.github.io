@@ -146,7 +146,7 @@
           <img src="https://images.unsplash.com/photo-1612539722392-b496a7ce6fc0?q=80&w=1600&auto=format&fit=crop" alt="Dehydrated chicken necks">
           <h3>Dehydrated chicken neck</h3>
           <p>Homemade dehydrated chicken feet. Great dental chew alternatives.</p>
-          <p class="price">$1.50 ea or $20 for 15 feet.</p>
+          <p class="price">$1.50 ea or $20 for 15.</p>
           <a class="btn" href="#contact">Order</a>
         </article>
       </div>
