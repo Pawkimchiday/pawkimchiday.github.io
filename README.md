@@ -145,8 +145,8 @@
         <article class="card">
           <img src="https://images.unsplash.com/photo-1612539722392-b496a7ce6fc0?q=80&w=1600&auto=format&fit=crop" alt="Dehydrated chicken necks">
           <h3>Dehydrated chicken neck</h3>
-          <p>Homemade dehydrated chicken necks. Great dental chew alternatives.</p>
-          <p class="price">$1.00 ea.</p>
+          <p>Homemade dehydrated chicken feet. Great dental chew alternatives.</p>
+          <p class="price">$1.50 ea or $20 for 15 feet.</p>
           <a class="btn" href="#contact">Order</a>
         </article>
       </div>
@@ -179,15 +179,15 @@
       <h2 class="section-title">Meet Haku, Hanu & Bami</h2>
       <div class="grid cols-3">
         <figure class="card">
-          <img src="https://imgur.com/gallery/haku-floof-KOyVgtA?q=80&w=1600&auto=format&fit=crop" alt="Fluffy white dog">
+          <img src="https://imgur.com/gallery/haku-floof-KOyVgtA?q=80&w=1600&auto=format&fit=crop" alt="Haku the Fluffy White Bear">
           <figcaption class="small">Haku — floof ambassador & taste tester</figcaption>
         </figure>
         <figure class="card">
-          <img src="https://images.unsplash.com/photo-1568572933382-74d440642117?q=80&w=1600&auto=format&fit=crop" alt="Tan medium dog">
+          <img src="https://images.unsplash.com/photo-1568572933382-74d440642117?q=80&w=1600&auto=format&fit=crop" alt="Hanu the zoomie specialist">
           <figcaption class="small">Hanu — zoomie specialist</figcaption>
         </figure>
         <figure class="card">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?q=80&w=1600&auto=format&fit=crop" alt="Calico cat relaxing">
+          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?q=80&w=1600&auto=format&fit=crop" alt="Bami the Quality Control">
           <figcaption class="small">Bami — quality control (strict)</figcaption>
         </figure>
       </div>
